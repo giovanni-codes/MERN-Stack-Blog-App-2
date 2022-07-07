@@ -1,0 +1,48 @@
+.main {
+  padding: 10px;
+}
+
+button {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #da0bb8;
+  color: #fff;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  cursor: pointer;
+  outline: none;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+  width: 50%;
+}
+
+.inputfromform {
+  margin: 10px 0px;
+}
+
+.inputfromform input, .inputfromform textarea {
+  
+  font-family: 'Courier New', Courier, monospace;
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  border: 1px solid lightgray;
+  padding: .375rem .75rem;
+  outline: none;
+  
+}
+
+.blogsOnServer {
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid lightgrey;
+  margin: 5px 0px;
+  border-radius: 4px;
+  padding: 10px;
+}
